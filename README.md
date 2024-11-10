@@ -1,6 +1,6 @@
 # Demand-Prediction-for-Smarter-Retail
 
-Email id: udaysankarde2022@gmail.com
+Email id: udaysankarde2022@gmail.com<br>
 LinkedIn profile id: https://www.linkedin.com/in/uday-sankar-de
 
 # About Project
